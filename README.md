@@ -1,2 +1,2 @@
-#CodeChef solution
+#CodeChef solutions
 - https://www.codechef.com/
